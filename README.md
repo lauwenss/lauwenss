@@ -1,6 +1,8 @@
 
 ###
-
+<div align="center">
+  <img src=https://github.com/lauwenss/lauwenss/blob/main/Cabral_Banner.png>
+</div>
 
 
 
@@ -14,7 +16,7 @@
 
 ###
 
-<p align="left">I'm William Laurence D. Cabral from Manila, Philippines<br><br>- 📚 I'm currently learning python<br>- ⚡ In my free time I play valorant</p>
+<p align="left">I'm William Laurence D. Cabral from Manila, Philippines<br><br>- 📚 I'm currently learning python<br>- ⚡ In my free time I play valorant<br>- 📫 Reach me with: **cabral221430@mkt.ceu.edu.ph** </p>
 <p><br>Hello there! I'm a 21-year-old IT student currently studying at CEU Makati, with a strong passion for database administration. My journey into the world of technology has been an exhilarating one, driven by my desire to explore the intricate complexities of data management. Aspiring to become a proficient database admin, I am constantly seeking opportunities to enhance my skills and knowledge in this dynamic field. Let's embark on this journey together, unraveling the wonders of database management and innovation.<br></p>
 
 ###
